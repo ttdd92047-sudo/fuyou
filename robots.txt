@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ttdd92047-sudo.github.io/fuyou/sitemap.xml
